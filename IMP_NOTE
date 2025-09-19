@@ -1,0 +1,1 @@
+Once we upload the csv file, ETL process transforms the data and creates a table from the backend code and loads data into it. Hence I don't have a db file.
