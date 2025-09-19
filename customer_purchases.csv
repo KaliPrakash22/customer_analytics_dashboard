@@ -1,0 +1,21 @@
+customer_id,purchase_date,purchase_amount,region,customer_segment,acquisition_channel
+C1001,2023-01-05,50.25,North,New,Social Media
+C1002,2023-01-08,120.0,South,Returning,Paid Search
+C1003,2023-01-12,75.5,West,New,Organic Search
+C1001,2023-01-20,60.1,North,Returning,Social Media
+C1004,2023-02-01,200.0,East,New,Referral
+C1002,2023-02-05,150.75,South,Returning,Paid Search
+C1005,2023-02-10,30.0,West,New,Social Media
+C1006,2023-02-15,85.9,North,New,Paid Search
+C1004,2023-02-20,225.5,East,Returning,Referral
+C1007,2023-03-01,95.0,South,New,Organic Search
+C1008,2023-03-05,110.4,West,New,Social Media
+C1009,2023-03-10,45.0,East,New,Paid Search
+C1001,2023-03-15,80.0,North,Returning,Social Media
+C1002,2023-03-20,135.2,South,Returning,Paid Search
+C1005,2023-03-25,40.5,West,Returning,Social Media
+C1010,2023-04-01,160.0,North,New,Referral
+C1003,2023-04-05,90.25,West,Returning,Organic Search
+C1006,2023-04-10,105.0,North,Returning,Paid Search
+C1004,2023-04-15,250.0,East,Returning,Referral
+C1007,2023-04-20,115.0,South,Returning,Organic Search
